@@ -17,4 +17,4 @@ This is a simple project containing a script that executes an RK 4 method to sol
 
 To view a few simple plots use:
 
-`gnuplot diff_eq_apr_27.plt`
+`gnuplot diff_eq_apr_27.plt --persist`
